@@ -1,6 +1,6 @@
 ## TodoList
 
- - [Setup](https://github.com/isahelgersai/TodoList-React-Laravel#setup-fronted)
+ - [Setup](https://github.com/isahelgersai/TodoList-React-Laravel#setup-frontend)
 
 
 ## Setup Frontend
