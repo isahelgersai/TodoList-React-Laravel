@@ -1,4 +1,4 @@
-## TodoList
+## TodoList Project
 
  - [Setup](https://github.com/isahelgersai/TodoList-React-Laravel#setup-frontend)
  - [Technologies](https://github.com/isahelgersai/TodoList-React-Laravel#technologies)
