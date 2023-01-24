@@ -16,6 +16,7 @@ $ npm start
 
 ```
 ## Technologies
+Used to build this project:
 
 - React
 - Tailwind
